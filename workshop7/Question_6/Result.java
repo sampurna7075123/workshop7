@@ -1,4 +1,4 @@
-package workshop7.question6;
+package workshop7.Question_6;
 
 public class Result {
     public double subject1;

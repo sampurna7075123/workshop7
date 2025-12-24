@@ -1,4 +1,4 @@
-package workshop7.question2;
+package workshop7.Question_2;
 
 public class Rectangle {
     public double length;

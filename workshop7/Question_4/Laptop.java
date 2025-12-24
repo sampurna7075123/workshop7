@@ -1,4 +1,4 @@
-package workshop7.question4;
+package workshop7.Question_4;
 
 public class Laptop {
     public String brand;

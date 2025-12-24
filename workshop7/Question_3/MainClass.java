@@ -1,4 +1,4 @@
-package workshop7.question3;
+package workshop7.Question_3;
 
 public class MainClass {
     public static void main(String[] args) {
